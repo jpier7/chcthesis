@@ -1,0 +1,296 @@
+
+point [1 77] exists within node [0 0][127 127]
+operation time: 0.000031 seconds
+point [3 78] exists within node [0 0][127 127]
+operation time: 0.002362 seconds
+point [5 79] exists within node [0 0][127 127]
+operation time: 0.000035 seconds
+point [7 79] exists within node [0 0][127 127]
+operation time: 0.002365 seconds
+point [8 79] exists within node [0 0][127 127]
+operation time: 0.000038 seconds
+point [8 80] exists within node [0 0][127 127]
+operation time: 0.002368 seconds
+point [9 80] exists within node [0 0][127 127]
+operation time: 0.000040 seconds
+point [11 81] exists within node [0 0][127 127]
+operation time: 0.002371 seconds
+point [12 81] exists within node [0 0][127 127]
+operation time: 0.000043 seconds
+point [13 81] exists within node [0 0][127 127]
+operation time: 0.002374 seconds
+point [14 81] exists within node [0 0][127 127]
+operation time: 0.000045 seconds
+point [14 82] exists within node [0 0][127 127]
+operation time: 0.002377 seconds
+point [15 82] exists within node [0 0][127 127]
+operation time: 0.000048 seconds
+point [16 82] exists within node [0 0][127 127]
+operation time: 0.002380 seconds
+point [17 81] exists within node [0 0][127 127]
+operation time: 0.000050 seconds
+point [19 81] exists within node [0 0][127 127]
+operation time: 0.002383 seconds
+point [20 81] exists within node [0 0][127 127]
+operation time: 0.000052 seconds
+point [21 81] exists within node [0 0][127 127]
+operation time: 0.002386 seconds
+point [22 81] exists within node [0 0][127 127]
+operation time: 0.000055 seconds
+point [23 81] exists within node [0 0][127 127]
+operation time: 0.002388 seconds
+point [25 81] exists within node [0 0][127 127]
+operation time: 0.000058 seconds
+point [27 81] exists within node [0 0][127 127]
+operation time: 0.002391 seconds
+point [28 81] exists within node [0 0][127 127]
+operation time: 0.000060 seconds
+point [29 81] exists within node [0 0][127 127]
+operation time: 0.002394 seconds
+point [30 81] exists within node [0 0][127 127]
+operation time: 0.000063 seconds
+point [31 81] exists within node [0 0][127 127]
+operation time: 0.002396 seconds
+point [33 81] exists within node [0 0][127 127]
+operation time: 0.000066 seconds
+point [37 82] exists within node [0 0][127 127]
+operation time: 0.002399 seconds
+point [40 82] exists within node [0 0][127 127]
+operation time: 0.000068 seconds
+point [43 82] exists within node [0 0][127 127]
+operation time: 0.002402 seconds
+point [47 82] exists within node [0 0][127 127]
+operation time: 0.000071 seconds
+point [49 82] exists within node [0 0][127 127]
+operation time: 0.002404 seconds
+point [51 82] exists within node [0 0][127 127]
+operation time: 0.000074 seconds
+point [52 82] exists within node [0 0][127 127]
+operation time: 0.002407 seconds
+point [53 82] exists within node [0 0][127 127]
+operation time: 0.000076 seconds
+point [55 81] exists within node [0 0][127 127]
+operation time: 0.002410 seconds
+point [56 81] exists within node [0 0][127 127]
+operation time: 0.000079 seconds
+point [57 80] exists within node [0 0][127 127]
+operation time: 0.002412 seconds
+point [58 80] exists within node [0 0][127 127]
+operation time: 0.000082 seconds
+point [60 80] exists within node [0 0][127 127]
+operation time: 0.002415 seconds
+point [62 80] exists within node [0 0][127 127]
+operation time: 0.000085 seconds
+point [65 80] not in boundary.
+operation time: 0.002417 seconds
+point [67 80] not in boundary.
+operation time: 0.000087 seconds
+point [69 80] not in boundary.
+operation time: 0.002419 seconds
+point [71 80] not in boundary.
+operation time: 0.000089 seconds
+point [72 80] not in boundary.
+operation time: 0.002421 seconds
+point [73 81] not in boundary.
+operation time: 0.000091 seconds
+point [74 81] not in boundary.
+operation time: 0.002423 seconds
+point [75 81] not in boundary.
+operation time: 0.000093 seconds
+point [77 82] not in boundary.
+operation time: 0.002426 seconds
+point [79 82] not in boundary.
+operation time: 0.000095 seconds
+point [81 83] not in boundary.
+operation time: 0.002428 seconds
+point [84 83] not in boundary.
+operation time: 0.000097 seconds
+point [87 84] not in boundary.
+operation time: 0.002469 seconds
+point [89 84] not in boundary.
+operation time: 0.000100 seconds
+point [91 84] not in boundary.
+operation time: 0.002472 seconds
+point [92 84] not in boundary.
+operation time: 0.000102 seconds
+point [93 84] not in boundary.
+operation time: 0.002474 seconds
+point [94 85] not in boundary.
+operation time: 0.000104 seconds
+point [96 85] not in boundary.
+operation time: 0.002476 seconds
+point [98 85] not in boundary.
+operation time: 0.000106 seconds
+point [100 86] not in boundary.
+operation time: 0.002478 seconds
+point [102 86] not in boundary.
+operation time: 0.000109 seconds
+point [105 86] not in boundary.
+operation time: 0.002479 seconds
+point [107 86] not in boundary.
+operation time: 0.000112 seconds
+point [110 86] not in boundary.
+operation time: 0.002481 seconds
+point [112 86] not in boundary.
+operation time: 0.000114 seconds
+point [114 87] not in boundary.
+operation time: 0.002483 seconds
+point [116 87] not in boundary.
+operation time: 0.000116 seconds
+point [117 87] not in boundary.
+operation time: 0.002485 seconds
+point [118 87] not in boundary.
+operation time: 0.000118 seconds
+point [119 87] not in boundary.
+operation time: 0.002487 seconds
+point [120 87] not in boundary.
+operation time: 0.000121 seconds
+point [122 87] not in boundary.
+operation time: 0.002489 seconds
+point [124 87] not in boundary.
+operation time: 0.000123 seconds
+point [126 88] not in boundary.
+operation time: 0.002491 seconds
+operation time: 0.000124 seconds
+operation time: 0.002493 seconds
+operation time: 0.000126 seconds
+operation time: 0.002494 seconds
+operation time: 0.000128 seconds
+operation time: 0.002495 seconds
+operation time: 0.000130 seconds
+operation time: 0.002496 seconds
+operation time: 0.000132 seconds
+operation time: 0.002498 seconds
+operation time: 0.000133 seconds
+operation time: 0.002500 seconds
+operation time: 0.000134 seconds
+operation time: 0.002502 seconds
+operation time: 0.000135 seconds
+operation time: 0.002504 seconds
+operation time: 0.000137 seconds
+operation time: 0.002505 seconds
+operation time: 0.000139 seconds
+operation time: 0.002506 seconds
+operation time: 0.000141 seconds
+operation time: 0.002507 seconds
+operation time: 0.000143 seconds
+operation time: 0.002508 seconds
+operation time: 0.000145 seconds
+operation time: 0.002509 seconds
+operation time: 0.000147 seconds
+operation time: 0.002510 seconds
+operation time: 0.000149 seconds
+operation time: 0.002512 seconds
+operation time: 0.000150 seconds
+operation time: 0.002514 seconds
+operation time: 0.000151 seconds
+operation time: 0.002516 seconds
+operation time: 0.000152 seconds
+operation time: 0.002518 seconds
+operation time: 0.000153 seconds
+operation time: 0.002520 seconds
+operation time: 0.000155 seconds
+operation time: 0.002521 seconds
+operation time: 0.000157 seconds
+operation time: 0.002522 seconds
+operation time: 0.000159 seconds
+operation time: 0.002523 seconds
+operation time: 0.000161 seconds
+operation time: 0.002525 seconds
+operation time: 0.000162 seconds
+operation time: 0.002527 seconds
+operation time: 0.000163 seconds
+operation time: 0.002529 seconds
+operation time: 0.000164 seconds
+operation time: 0.002531 seconds
+operation time: 0.000165 seconds
+operation time: 0.002533 seconds
+operation time: 0.000167 seconds
+operation time: 0.002535 seconds
+operation time: 0.000168 seconds
+operation time: 0.002537 seconds
+operation time: 0.000169 seconds
+operation time: 0.002539 seconds
+operation time: 0.000170 seconds
+operation time: 0.002541 seconds
+operation time: 0.000171 seconds
+operation time: 0.002543 seconds
+operation time: 0.000173 seconds
+operation time: 0.002544 seconds
+operation time: 0.000174 seconds
+operation time: 0.002546 seconds
+operation time: 0.000175 seconds
+operation time: 0.002548 seconds
+operation time: 0.000177 seconds
+operation time: 0.002549 seconds
+operation time: 0.000179 seconds
+operation time: 0.002550 seconds
+operation time: 0.000181 seconds
+operation time: 0.002551 seconds
+operation time: 0.000183 seconds
+operation time: 0.002553 seconds
+operation time: 0.000184 seconds
+operation time: 0.002555 seconds
+operation time: 0.000201 seconds
+operation time: 0.002556 seconds
+operation time: 0.000203 seconds
+operation time: 0.002558 seconds
+operation time: 0.000205 seconds
+operation time: 0.002559 seconds
+operation time: 0.000207 seconds
+operation time: 0.002560 seconds
+operation time: 0.000209 seconds
+operation time: 0.002562 seconds
+operation time: 0.000210 seconds
+operation time: 0.002564 seconds
+operation time: 0.000211 seconds
+operation time: 0.002566 seconds
+operation time: 0.000212 seconds
+operation time: 0.002568 seconds
+operation time: 0.000213 seconds
+operation time: 0.002570 seconds
+operation time: 0.000214 seconds
+operation time: 0.002572 seconds
+operation time: 0.000216 seconds
+operation time: 0.002573 seconds
+operation time: 0.000218 seconds
+operation time: 0.002575 seconds
+operation time: 0.000219 seconds
+operation time: 0.002577 seconds
+operation time: 0.000220 seconds
+operation time: 0.002579 seconds
+operation time: 0.000221 seconds
+operation time: 0.002581 seconds
+operation time: 0.000222 seconds
+operation time: 0.002583 seconds
+operation time: 0.000223 seconds
+operation time: 0.002585 seconds
+operation time: 0.000225 seconds
+operation time: 0.002586 seconds
+operation time: 0.000227 seconds
+operation time: 0.002588 seconds
+operation time: 0.000228 seconds
+operation time: 0.002590 seconds
+operation time: 0.000229 seconds
+operation time: 0.002592 seconds
+operation time: 0.000230 seconds
+operation time: 0.002594 seconds
+operation time: 0.000231 seconds
+operation time: 0.002596 seconds
+operation time: 0.000232 seconds
+operation time: 0.002598 seconds
+operation time: 0.000233 seconds
+operation time: 0.002600 seconds
+operation time: 0.000235 seconds
+operation time: 0.002601 seconds
+operation time: 0.000237 seconds
+operation time: 0.002602 seconds
+operation time: 0.000239 seconds
+operation time: 0.002603 seconds
+operation time: 0.000241 seconds
+operation time: 0.002605 seconds
+operation time: 0.000242 seconds
+operation time: 0.002607 seconds
+operation time: 0.000243 seconds
+image dimensions: 128x128
+size: 37 nodes

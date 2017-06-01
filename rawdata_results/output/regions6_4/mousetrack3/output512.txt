@@ -1,0 +1,513 @@
+
+point [394 1] exists within node [256 0][511 255]
+operation time: 0.000030 seconds
+point [394 3] exists within node [256 0][511 255]
+operation time: 0.000037 seconds
+point [395 4] exists within node [256 0][511 255]
+operation time: 0.000039 seconds
+point [395 6] exists within node [256 0][511 255]
+operation time: 0.000041 seconds
+point [395 8] exists within node [256 0][511 255]
+operation time: 0.000043 seconds
+point [395 9] exists within node [256 0][511 255]
+operation time: 0.000045 seconds
+point [395 11] exists within node [256 0][511 255]
+operation time: 0.000047 seconds
+point [395 13] exists within node [256 0][511 255]
+operation time: 0.000049 seconds
+point [395 15] exists within node [256 0][511 255]
+operation time: 0.000051 seconds
+point [395 17] exists within node [256 0][511 255]
+operation time: 0.000053 seconds
+point [395 19] exists within node [256 0][511 255]
+operation time: 0.000055 seconds
+point [395 21] exists within node [256 0][511 255]
+operation time: 0.000056 seconds
+point [396 23] exists within node [256 0][511 255]
+operation time: 0.000058 seconds
+point [396 24] exists within node [256 0][511 255]
+operation time: 0.000060 seconds
+point [396 26] exists within node [256 0][511 255]
+operation time: 0.000062 seconds
+point [396 28] exists within node [256 0][511 255]
+operation time: 0.000064 seconds
+point [396 30] exists within node [256 0][511 255]
+operation time: 0.000066 seconds
+point [396 31] exists within node [256 0][511 255]
+operation time: 0.000067 seconds
+point [396 34] exists within node [256 0][511 255]
+operation time: 0.000069 seconds
+point [396 36] exists within node [256 0][511 255]
+operation time: 0.000071 seconds
+point [396 38] exists within node [256 0][511 255]
+operation time: 0.000073 seconds
+point [396 40] exists within node [256 0][511 255]
+operation time: 0.000075 seconds
+point [396 42] exists within node [256 0][511 255]
+operation time: 0.000077 seconds
+point [396 44] exists within node [256 0][511 255]
+operation time: 0.000089 seconds
+point [396 47] exists within node [256 0][511 255]
+operation time: 0.000091 seconds
+point [396 49] exists within node [256 0][511 255]
+operation time: 0.000092 seconds
+point [396 50] exists within node [256 0][511 255]
+operation time: 0.000094 seconds
+point [396 52] exists within node [256 0][511 255]
+operation time: 0.000096 seconds
+point [396 54] exists within node [256 0][511 255]
+operation time: 0.000098 seconds
+point [397 55] exists within node [256 0][511 255]
+operation time: 0.000100 seconds
+point [397 57] exists within node [256 0][511 255]
+operation time: 0.000102 seconds
+point [397 58] exists within node [256 0][511 255]
+operation time: 0.000104 seconds
+point [397 59] exists within node [256 0][511 255]
+operation time: 0.000106 seconds
+point [397 62] exists within node [256 0][511 255]
+operation time: 0.000108 seconds
+point [397 63] exists within node [256 0][511 255]
+operation time: 0.000109 seconds
+point [397 64] exists within node [256 0][511 255]
+operation time: 0.000112 seconds
+point [398 66] exists within node [256 0][511 255]
+operation time: 0.000113 seconds
+point [398 67] exists within node [256 0][511 255]
+operation time: 0.000115 seconds
+point [398 68] exists within node [256 0][511 255]
+operation time: 0.000117 seconds
+point [398 69] exists within node [256 0][511 255]
+operation time: 0.000119 seconds
+point [398 71] exists within node [256 0][511 255]
+operation time: 0.000121 seconds
+point [398 73] exists within node [256 0][511 255]
+operation time: 0.000123 seconds
+point [398 74] exists within node [256 0][511 255]
+operation time: 0.000124 seconds
+point [398 75] exists within node [256 0][511 255]
+operation time: 0.000126 seconds
+point [399 76] exists within node [256 0][511 255]
+operation time: 0.000128 seconds
+point [399 78] exists within node [256 0][511 255]
+operation time: 0.000130 seconds
+point [399 79] exists within node [256 0][511 255]
+operation time: 0.000132 seconds
+point [399 80] exists within node [256 0][511 255]
+operation time: 0.000133 seconds
+point [399 81] exists within node [256 0][511 255]
+operation time: 0.000135 seconds
+point [399 82] exists within node [256 0][511 255]
+operation time: 0.000171 seconds
+point [399 84] exists within node [256 0][511 255]
+operation time: 0.000173 seconds
+point [399 85] exists within node [256 0][511 255]
+operation time: 0.000175 seconds
+point [399 86] exists within node [256 0][511 255]
+operation time: 0.000177 seconds
+point [398 88] exists within node [256 0][511 255]
+operation time: 0.000179 seconds
+point [398 90] exists within node [256 0][511 255]
+operation time: 0.000181 seconds
+point [398 92] exists within node [256 0][511 255]
+operation time: 0.000183 seconds
+point [398 95] exists within node [256 0][511 255]
+operation time: 0.000185 seconds
+point [397 97] exists within node [256 0][511 255]
+operation time: 0.000187 seconds
+point [396 100] exists within node [256 0][511 255]
+operation time: 0.000189 seconds
+point [395 102] exists within node [256 0][511 255]
+operation time: 0.000190 seconds
+point [395 105] exists within node [256 0][511 255]
+operation time: 0.000192 seconds
+point [394 107] exists within node [256 0][511 255]
+operation time: 0.000194 seconds
+point [394 110] exists within node [256 0][511 255]
+operation time: 0.000196 seconds
+point [394 112] exists within node [256 0][511 255]
+operation time: 0.000198 seconds
+point [394 116] exists within node [256 0][511 255]
+operation time: 0.000200 seconds
+point [394 118] exists within node [256 0][511 255]
+operation time: 0.000202 seconds
+point [394 122] exists within node [256 0][511 255]
+operation time: 0.000204 seconds
+point [393 125] exists within node [256 0][511 255]
+operation time: 0.000205 seconds
+point [393 128] exists within node [384 128][511 255]
+operation time: 0.000208 seconds
+point [393 131] exists within node [384 128][511 255]
+operation time: 0.000210 seconds
+point [393 134] exists within node [384 128][511 255]
+operation time: 0.000211 seconds
+point [393 137] exists within node [384 128][511 255]
+operation time: 0.000213 seconds
+point [393 139] exists within node [384 128][511 255]
+operation time: 0.000215 seconds
+point [393 142] exists within node [384 128][511 255]
+operation time: 0.000217 seconds
+point [393 144] exists within node [384 128][511 255]
+operation time: 0.000219 seconds
+point [393 147] exists within node [384 128][511 255]
+operation time: 0.000221 seconds
+point [393 149] exists within node [384 128][511 255]
+operation time: 0.000223 seconds
+point [393 152] exists within node [384 128][511 255]
+operation time: 0.000225 seconds
+point [394 154] exists within node [384 128][511 255]
+operation time: 0.000227 seconds
+point [394 156] exists within node [384 128][511 255]
+operation time: 0.000228 seconds
+point [394 159] exists within node [384 128][511 255]
+operation time: 0.000231 seconds
+point [394 161] exists within node [384 128][511 255]
+operation time: 0.000232 seconds
+point [394 163] exists within node [384 128][511 255]
+operation time: 0.000234 seconds
+point [394 165] exists within node [384 128][511 255]
+operation time: 0.000236 seconds
+point [394 168] exists within node [384 128][511 255]
+operation time: 0.000238 seconds
+point [395 170] exists within node [384 128][511 255]
+operation time: 0.000240 seconds
+point [395 172] exists within node [384 128][511 255]
+operation time: 0.000242 seconds
+point [395 175] exists within node [384 128][511 255]
+operation time: 0.000244 seconds
+point [395 177] exists within node [384 128][511 255]
+operation time: 0.000246 seconds
+point [395 179] exists within node [384 128][511 255]
+operation time: 0.000247 seconds
+point [395 181] exists within node [384 128][511 255]
+operation time: 0.000249 seconds
+point [395 184] exists within node [384 128][511 255]
+operation time: 0.000251 seconds
+point [395 186] exists within node [384 128][511 255]
+operation time: 0.000253 seconds
+point [396 188] exists within node [384 128][511 255]
+operation time: 0.000255 seconds
+point [396 191] exists within node [384 128][511 255]
+operation time: 0.000257 seconds
+point [396 193] exists within node [384 128][511 255]
+operation time: 0.000259 seconds
+point [396 195] exists within node [384 128][511 255]
+operation time: 0.000269 seconds
+point [396 197] exists within node [384 128][511 255]
+operation time: 0.000271 seconds
+point [396 200] exists within node [384 128][511 255]
+operation time: 0.000273 seconds
+point [396 203] exists within node [384 128][511 255]
+operation time: 0.000275 seconds
+point [396 204] exists within node [384 128][511 255]
+operation time: 0.000277 seconds
+point [397 208] exists within node [384 128][511 255]
+operation time: 0.000279 seconds
+point [397 209] exists within node [384 128][511 255]
+operation time: 0.000281 seconds
+point [397 212] exists within node [384 128][511 255]
+operation time: 0.000283 seconds
+point [397 214] exists within node [384 128][511 255]
+operation time: 0.000285 seconds
+point [397 216] exists within node [384 128][511 255]
+operation time: 0.000287 seconds
+point [397 219] exists within node [384 128][511 255]
+operation time: 0.000288 seconds
+point [397 221] exists within node [384 128][511 255]
+operation time: 0.000290 seconds
+point [397 223] exists within node [384 128][511 255]
+operation time: 0.000292 seconds
+point [397 225] exists within node [384 128][511 255]
+operation time: 0.000294 seconds
+point [397 227] exists within node [384 128][511 255]
+operation time: 0.000296 seconds
+point [398 228] exists within node [384 128][511 255]
+operation time: 0.000298 seconds
+point [399 231] exists within node [384 128][511 255]
+operation time: 0.000300 seconds
+point [399 232] exists within node [384 128][511 255]
+operation time: 0.000302 seconds
+point [399 235] exists within node [384 128][511 255]
+operation time: 0.000303 seconds
+point [399 237] exists within node [384 128][511 255]
+operation time: 0.000305 seconds
+point [400 240] exists within node [384 128][511 255]
+operation time: 0.000307 seconds
+point [400 242] exists within node [384 128][511 255]
+operation time: 0.000309 seconds
+point [400 244] exists within node [384 128][511 255]
+operation time: 0.000311 seconds
+point [400 246] exists within node [384 128][511 255]
+operation time: 0.000313 seconds
+point [400 248] exists within node [384 128][511 255]
+operation time: 0.000315 seconds
+point [401 251] exists within node [384 128][511 255]
+operation time: 0.000317 seconds
+point [401 254] exists within node [384 128][511 255]
+operation time: 0.000319 seconds
+point [401 256] exists within node [384 256][511 383]
+operation time: 0.000321 seconds
+point [401 258] exists within node [384 256][511 383]
+operation time: 0.000323 seconds
+point [401 260] exists within node [384 256][511 383]
+operation time: 0.000325 seconds
+point [401 262] exists within node [384 256][511 383]
+operation time: 0.000327 seconds
+point [401 264] exists within node [384 256][511 383]
+operation time: 0.000328 seconds
+point [401 266] exists within node [384 256][511 383]
+operation time: 0.000330 seconds
+point [401 268] exists within node [384 256][511 383]
+operation time: 0.000332 seconds
+point [402 269] exists within node [384 256][511 383]
+operation time: 0.000334 seconds
+point [402 270] exists within node [384 256][511 383]
+operation time: 0.000336 seconds
+point [402 272] exists within node [384 256][511 383]
+operation time: 0.000338 seconds
+point [402 273] exists within node [384 256][511 383]
+operation time: 0.000340 seconds
+point [402 274] exists within node [384 256][511 383]
+operation time: 0.000342 seconds
+point [402 276] exists within node [384 256][511 383]
+operation time: 0.000344 seconds
+point [402 278] exists within node [384 256][511 383]
+operation time: 0.000346 seconds
+point [402 279] exists within node [384 256][511 383]
+operation time: 0.000347 seconds
+point [402 281] exists within node [384 256][511 383]
+operation time: 0.000349 seconds
+point [402 282] exists within node [384 256][511 383]
+operation time: 0.000351 seconds
+point [403 284] exists within node [384 256][511 383]
+operation time: 0.000353 seconds
+point [403 285] exists within node [384 256][511 383]
+operation time: 0.000355 seconds
+point [403 287] exists within node [384 256][511 383]
+operation time: 0.000357 seconds
+point [403 288] exists within node [384 256][511 383]
+operation time: 0.000365 seconds
+point [403 289] exists within node [384 256][511 383]
+operation time: 0.000367 seconds
+point [403 290] exists within node [384 256][511 383]
+operation time: 0.000369 seconds
+point [404 292] exists within node [384 256][511 383]
+operation time: 0.000371 seconds
+point [404 293] exists within node [384 256][511 383]
+operation time: 0.000373 seconds
+point [404 294] exists within node [384 256][511 383]
+operation time: 0.000374 seconds
+point [404 295] exists within node [384 256][511 383]
+operation time: 0.000376 seconds
+point [404 297] exists within node [384 256][511 383]
+operation time: 0.000378 seconds
+point [404 298] exists within node [384 256][511 383]
+operation time: 0.000380 seconds
+point [404 300] exists within node [384 256][511 383]
+operation time: 0.000382 seconds
+point [404 301] exists within node [384 256][511 383]
+operation time: 0.000384 seconds
+point [404 303] exists within node [384 256][511 383]
+operation time: 0.000386 seconds
+point [404 304] exists within node [384 256][511 383]
+operation time: 0.000388 seconds
+point [404 306] exists within node [384 256][511 383]
+operation time: 0.000389 seconds
+point [404 308] exists within node [384 256][511 383]
+operation time: 0.000391 seconds
+point [404 310] exists within node [384 256][511 383]
+operation time: 0.000393 seconds
+point [404 312] exists within node [384 256][511 383]
+operation time: 0.000395 seconds
+point [404 314] exists within node [384 256][511 383]
+operation time: 0.000397 seconds
+point [404 317] exists within node [384 256][511 383]
+operation time: 0.000399 seconds
+point [404 319] exists within node [384 256][511 383]
+operation time: 0.000401 seconds
+point [404 321] exists within node [384 256][511 383]
+operation time: 0.000403 seconds
+point [404 323] exists within node [384 256][511 383]
+operation time: 0.000405 seconds
+point [404 325] exists within node [384 256][511 383]
+operation time: 0.000406 seconds
+point [404 328] exists within node [384 256][511 383]
+operation time: 0.000408 seconds
+point [404 330] exists within node [384 256][511 383]
+operation time: 0.000410 seconds
+point [404 332] exists within node [384 256][511 383]
+operation time: 0.000412 seconds
+point [404 333] exists within node [384 256][511 383]
+operation time: 0.000414 seconds
+point [405 335] exists within node [384 256][511 383]
+operation time: 0.000416 seconds
+point [405 337] exists within node [384 256][511 383]
+operation time: 0.000418 seconds
+point [405 338] exists within node [384 256][511 383]
+operation time: 0.000420 seconds
+point [406 339] exists within node [384 256][511 383]
+operation time: 0.000422 seconds
+point [406 340] exists within node [384 256][511 383]
+operation time: 0.000424 seconds
+point [406 341] exists within node [384 256][511 383]
+operation time: 0.000425 seconds
+point [407 342] exists within node [384 256][511 383]
+operation time: 0.000427 seconds
+point [407 343] exists within node [384 256][511 383]
+operation time: 0.000429 seconds
+point [407 344] exists within node [384 256][511 383]
+operation time: 0.000431 seconds
+point [407 345] exists within node [384 256][511 383]
+operation time: 0.000433 seconds
+point [407 347] exists within node [384 256][511 383]
+operation time: 0.000435 seconds
+point [408 348] exists within node [384 256][511 383]
+operation time: 0.000437 seconds
+point [408 350] exists within node [384 256][511 383]
+operation time: 0.000439 seconds
+point [408 351] exists within node [384 256][511 383]
+operation time: 0.000441 seconds
+point [408 353] exists within node [384 256][511 383]
+operation time: 0.000443 seconds
+point [408 355] exists within node [384 256][511 383]
+operation time: 0.000445 seconds
+point [409 357] exists within node [384 256][511 383]
+operation time: 0.000447 seconds
+point [409 359] exists within node [384 256][511 383]
+operation time: 0.000448 seconds
+point [409 361] exists within node [384 256][511 383]
+operation time: 0.000450 seconds
+point [409 363] exists within node [384 256][511 383]
+operation time: 0.000452 seconds
+point [409 365] exists within node [384 256][511 383]
+operation time: 0.000454 seconds
+point [409 367] exists within node [384 256][511 383]
+operation time: 0.000462 seconds
+point [409 370] exists within node [384 256][511 383]
+operation time: 0.000464 seconds
+point [408 373] exists within node [384 256][511 383]
+operation time: 0.000466 seconds
+point [408 376] exists within node [384 256][511 383]
+operation time: 0.000468 seconds
+point [406 379] exists within node [384 256][511 383]
+operation time: 0.000470 seconds
+point [405 382] exists within node [384 256][511 383]
+operation time: 0.000472 seconds
+point [404 386] exists within node [256 256][511 511]
+operation time: 0.000474 seconds
+point [403 389] exists within node [256 256][511 511]
+operation time: 0.000475 seconds
+point [403 392] exists within node [256 256][511 511]
+operation time: 0.000477 seconds
+point [402 396] exists within node [256 256][511 511]
+operation time: 0.000479 seconds
+point [402 399] exists within node [256 256][511 511]
+operation time: 0.000481 seconds
+point [402 402] exists within node [256 256][511 511]
+operation time: 0.000483 seconds
+point [402 405] exists within node [256 256][511 511]
+operation time: 0.000485 seconds
+point [402 408] exists within node [256 256][511 511]
+operation time: 0.000486 seconds
+point [402 411] exists within node [256 256][511 511]
+operation time: 0.000488 seconds
+point [402 413] exists within node [256 256][511 511]
+operation time: 0.000490 seconds
+point [402 415] exists within node [256 256][511 511]
+operation time: 0.000492 seconds
+point [402 417] exists within node [256 256][511 511]
+operation time: 0.000494 seconds
+point [402 420] exists within node [256 256][511 511]
+operation time: 0.000496 seconds
+point [402 422] exists within node [256 256][511 511]
+operation time: 0.000498 seconds
+point [402 424] exists within node [256 256][511 511]
+operation time: 0.000499 seconds
+point [402 425] exists within node [256 256][511 511]
+operation time: 0.000501 seconds
+point [402 427] exists within node [256 256][511 511]
+operation time: 0.000503 seconds
+point [403 429] exists within node [256 256][511 511]
+operation time: 0.000505 seconds
+point [403 431] exists within node [256 256][511 511]
+operation time: 0.000507 seconds
+point [403 433] exists within node [256 256][511 511]
+operation time: 0.000509 seconds
+point [403 434] exists within node [256 256][511 511]
+operation time: 0.000510 seconds
+point [404 436] exists within node [256 256][511 511]
+operation time: 0.000512 seconds
+point [404 438] exists within node [256 256][511 511]
+operation time: 0.000514 seconds
+point [404 440] exists within node [256 256][511 511]
+operation time: 0.000516 seconds
+point [406 442] exists within node [256 256][511 511]
+operation time: 0.000518 seconds
+point [406 444] exists within node [256 256][511 511]
+operation time: 0.000519 seconds
+point [407 446] exists within node [256 256][511 511]
+operation time: 0.000521 seconds
+point [408 449] exists within node [256 256][511 511]
+operation time: 0.000523 seconds
+point [408 450] exists within node [256 256][511 511]
+operation time: 0.000525 seconds
+point [409 452] exists within node [256 256][511 511]
+operation time: 0.000527 seconds
+point [409 454] exists within node [256 256][511 511]
+operation time: 0.000529 seconds
+point [410 456] exists within node [256 256][511 511]
+operation time: 0.000531 seconds
+point [410 458] exists within node [256 256][511 511]
+operation time: 0.000532 seconds
+point [410 459] exists within node [256 256][511 511]
+operation time: 0.000534 seconds
+point [410 461] exists within node [256 256][511 511]
+operation time: 0.000536 seconds
+point [410 463] exists within node [256 256][511 511]
+operation time: 0.000538 seconds
+point [410 465] exists within node [256 256][511 511]
+operation time: 0.000540 seconds
+point [410 466] exists within node [256 256][511 511]
+operation time: 0.000542 seconds
+point [410 467] exists within node [256 256][511 511]
+operation time: 0.000544 seconds
+point [411 469] exists within node [256 256][511 511]
+operation time: 0.000546 seconds
+point [411 471] exists within node [256 256][511 511]
+operation time: 0.000547 seconds
+point [411 473] exists within node [256 256][511 511]
+operation time: 0.000554 seconds
+point [411 474] exists within node [256 256][511 511]
+operation time: 0.000556 seconds
+point [411 476] exists within node [256 256][511 511]
+operation time: 0.000558 seconds
+point [411 477] exists within node [256 256][511 511]
+operation time: 0.000560 seconds
+point [411 478] exists within node [256 256][511 511]
+operation time: 0.000562 seconds
+point [411 480] exists within node [256 256][511 511]
+operation time: 0.000563 seconds
+point [411 482] exists within node [256 256][511 511]
+operation time: 0.000565 seconds
+point [411 484] exists within node [256 256][511 511]
+operation time: 0.000567 seconds
+point [411 485] exists within node [256 256][511 511]
+operation time: 0.000569 seconds
+point [411 487] exists within node [256 256][511 511]
+operation time: 0.000571 seconds
+point [411 490] exists within node [256 256][511 511]
+operation time: 0.000573 seconds
+point [411 491] exists within node [256 256][511 511]
+operation time: 0.000575 seconds
+point [410 493] exists within node [256 256][511 511]
+operation time: 0.000576 seconds
+point [410 495] exists within node [256 256][511 511]
+operation time: 0.000578 seconds
+point [410 496] exists within node [256 256][511 511]
+operation time: 0.000580 seconds
+point [410 498] exists within node [256 256][511 511]
+operation time: 0.000582 seconds
+point [410 499] exists within node [256 256][511 511]
+operation time: 0.000584 seconds
+image dimensions: 512x512
+size: 2830 nodes

@@ -1,0 +1,437 @@
+
+point [1 77] exists within node [0 64][63 127]
+operation time: 0.000030 seconds
+point [3 78] exists within node [0 64][63 127]
+operation time: 0.000040 seconds
+point [5 79] exists within node [0 64][63 127]
+operation time: 0.000043 seconds
+point [7 79] exists within node [0 64][63 127]
+operation time: 0.000046 seconds
+point [8 79] exists within node [0 64][63 127]
+operation time: 0.000048 seconds
+point [8 80] exists within node [0 64][63 127]
+operation time: 0.000051 seconds
+point [9 80] exists within node [0 64][63 127]
+operation time: 0.000054 seconds
+point [11 81] exists within node [0 64][63 127]
+operation time: 0.000056 seconds
+point [12 81] exists within node [0 64][63 127]
+operation time: 0.000058 seconds
+point [13 81] exists within node [0 64][63 127]
+operation time: 0.000061 seconds
+point [14 81] exists within node [0 64][63 127]
+operation time: 0.000063 seconds
+point [14 82] exists within node [0 64][63 127]
+operation time: 0.000066 seconds
+point [15 82] exists within node [0 64][63 127]
+operation time: 0.000068 seconds
+point [16 82] exists within node [0 64][63 127]
+operation time: 0.000071 seconds
+point [17 81] exists within node [0 64][63 127]
+operation time: 0.000073 seconds
+point [19 81] exists within node [0 64][63 127]
+operation time: 0.000076 seconds
+point [20 81] exists within node [0 64][63 127]
+operation time: 0.000078 seconds
+point [21 81] exists within node [0 64][63 127]
+operation time: 0.000081 seconds
+point [22 81] exists within node [0 64][63 127]
+operation time: 0.000083 seconds
+point [23 81] exists within node [0 64][63 127]
+operation time: 0.000086 seconds
+point [25 81] exists within node [0 64][63 127]
+operation time: 0.000092 seconds
+point [27 81] exists within node [0 64][63 127]
+operation time: 0.000106 seconds
+point [28 81] exists within node [0 64][63 127]
+operation time: 0.000109 seconds
+point [29 81] exists within node [0 64][63 127]
+operation time: 0.000111 seconds
+point [30 81] exists within node [0 64][63 127]
+operation time: 0.000114 seconds
+point [31 81] exists within node [0 64][63 127]
+operation time: 0.000116 seconds
+point [33 81] exists within node [32 64][63 95]
+operation time: 0.000119 seconds
+point [37 82] exists within node [32 64][63 95]
+operation time: 0.000122 seconds
+point [40 82] exists within node [32 64][63 95]
+operation time: 0.000124 seconds
+point [43 82] exists within node [32 64][63 95]
+operation time: 0.000127 seconds
+point [47 82] exists within node [32 64][63 95]
+operation time: 0.000129 seconds
+point [49 82] exists within node [32 64][63 95]
+operation time: 0.000132 seconds
+point [51 82] exists within node [32 64][63 95]
+operation time: 0.000134 seconds
+point [52 82] exists within node [32 64][63 95]
+operation time: 0.000137 seconds
+point [53 82] exists within node [32 64][63 95]
+operation time: 0.000139 seconds
+point [55 81] exists within node [32 64][63 95]
+operation time: 0.000142 seconds
+point [56 81] exists within node [32 64][63 95]
+operation time: 0.000144 seconds
+point [57 80] exists within node [32 64][63 95]
+operation time: 0.000147 seconds
+point [58 80] exists within node [32 64][63 95]
+operation time: 0.000149 seconds
+point [60 80] exists within node [32 64][63 95]
+operation time: 0.000152 seconds
+point [62 80] exists within node [32 64][63 95]
+operation time: 0.000154 seconds
+point [65 80] exists within node [64 64][95 95]
+operation time: 0.000157 seconds
+point [67 80] exists within node [64 64][95 95]
+operation time: 0.000160 seconds
+point [69 80] exists within node [64 64][95 95]
+operation time: 0.000162 seconds
+point [71 80] exists within node [64 64][95 95]
+operation time: 0.000165 seconds
+point [72 80] exists within node [64 64][95 95]
+operation time: 0.000167 seconds
+point [73 81] exists within node [64 64][95 95]
+operation time: 0.000170 seconds
+point [74 81] exists within node [64 64][95 95]
+operation time: 0.000172 seconds
+point [75 81] exists within node [64 64][95 95]
+operation time: 0.000175 seconds
+point [77 82] exists within node [64 64][95 95]
+operation time: 0.000177 seconds
+point [79 82] exists within node [64 64][95 95]
+operation time: 0.000180 seconds
+point [81 83] not in boundary.
+operation time: 0.000247 seconds
+point [84 83] not in boundary.
+operation time: 0.000249 seconds
+point [87 84] not in boundary.
+operation time: 0.000251 seconds
+point [89 84] not in boundary.
+operation time: 0.000253 seconds
+point [91 84] not in boundary.
+operation time: 0.000254 seconds
+point [92 84] not in boundary.
+operation time: 0.000256 seconds
+point [93 84] not in boundary.
+operation time: 0.000258 seconds
+point [94 85] not in boundary.
+operation time: 0.000260 seconds
+point [96 85] not in boundary.
+operation time: 0.000262 seconds
+point [98 85] not in boundary.
+operation time: 0.000263 seconds
+point [100 86] not in boundary.
+operation time: 0.000265 seconds
+point [102 86] not in boundary.
+operation time: 0.000267 seconds
+point [105 86] not in boundary.
+operation time: 0.000268 seconds
+point [107 86] not in boundary.
+operation time: 0.000270 seconds
+point [110 86] not in boundary.
+operation time: 0.000272 seconds
+point [112 86] not in boundary.
+operation time: 0.000274 seconds
+point [114 87] not in boundary.
+operation time: 0.000275 seconds
+point [116 87] not in boundary.
+operation time: 0.000277 seconds
+point [117 87] not in boundary.
+operation time: 0.000278 seconds
+point [118 87] not in boundary.
+operation time: 0.000280 seconds
+point [119 87] not in boundary.
+operation time: 0.000282 seconds
+point [120 87] not in boundary.
+operation time: 0.000283 seconds
+point [122 87] not in boundary.
+operation time: 0.000285 seconds
+point [124 87] not in boundary.
+operation time: 0.000287 seconds
+point [126 88] not in boundary.
+operation time: 0.000288 seconds
+point [128 88] not in boundary.
+operation time: 0.000290 seconds
+point [131 88] not in boundary.
+operation time: 0.000292 seconds
+point [133 88] not in boundary.
+operation time: 0.000293 seconds
+point [135 89] not in boundary.
+operation time: 0.000295 seconds
+point [137 89] not in boundary.
+operation time: 0.000297 seconds
+point [139 89] not in boundary.
+operation time: 0.000298 seconds
+point [140 89] not in boundary.
+operation time: 0.000300 seconds
+point [141 89] not in boundary.
+operation time: 0.000301 seconds
+point [143 89] not in boundary.
+operation time: 0.000303 seconds
+point [145 90] not in boundary.
+operation time: 0.000305 seconds
+point [147 90] not in boundary.
+operation time: 0.000306 seconds
+point [150 90] not in boundary.
+operation time: 0.000308 seconds
+point [152 90] not in boundary.
+operation time: 0.000310 seconds
+point [155 91] not in boundary.
+operation time: 0.000311 seconds
+point [157 91] not in boundary.
+operation time: 0.000313 seconds
+point [160 91] not in boundary.
+operation time: 0.000315 seconds
+point [162 92] not in boundary.
+operation time: 0.000316 seconds
+point [164 92] not in boundary.
+operation time: 0.000318 seconds
+point [166 92] not in boundary.
+operation time: 0.000319 seconds
+point [167 92] not in boundary.
+operation time: 0.000321 seconds
+point [168 92] not in boundary.
+operation time: 0.000323 seconds
+point [169 92] not in boundary.
+operation time: 0.000324 seconds
+point [170 92] not in boundary.
+operation time: 0.000326 seconds
+point [171 92] not in boundary.
+operation time: 0.000327 seconds
+point [172 93] not in boundary.
+operation time: 0.000329 seconds
+point [173 93] not in boundary.
+operation time: 0.000331 seconds
+point [174 93] not in boundary.
+operation time: 0.000332 seconds
+point [175 93] not in boundary.
+operation time: 0.000334 seconds
+point [176 93] not in boundary.
+operation time: 0.000335 seconds
+point [177 93] not in boundary.
+operation time: 0.000337 seconds
+point [179 94] not in boundary.
+operation time: 0.000338 seconds
+point [180 94] not in boundary.
+operation time: 0.000340 seconds
+point [181 94] not in boundary.
+operation time: 0.000341 seconds
+point [183 94] not in boundary.
+operation time: 0.000343 seconds
+point [185 94] not in boundary.
+operation time: 0.000345 seconds
+point [186 93] not in boundary.
+operation time: 0.000346 seconds
+point [188 93] not in boundary.
+operation time: 0.000348 seconds
+point [191 93] not in boundary.
+operation time: 0.000349 seconds
+point [193 93] not in boundary.
+operation time: 0.000361 seconds
+point [196 93] not in boundary.
+operation time: 0.000363 seconds
+point [198 93] not in boundary.
+operation time: 0.000365 seconds
+point [200 93] not in boundary.
+operation time: 0.000367 seconds
+point [202 93] not in boundary.
+operation time: 0.000368 seconds
+point [205 93] not in boundary.
+operation time: 0.000370 seconds
+point [207 93] not in boundary.
+operation time: 0.000371 seconds
+point [208 92] not in boundary.
+operation time: 0.000373 seconds
+point [210 92] not in boundary.
+operation time: 0.000374 seconds
+point [211 92] not in boundary.
+operation time: 0.000376 seconds
+point [212 92] not in boundary.
+operation time: 0.000378 seconds
+point [214 92] not in boundary.
+operation time: 0.000379 seconds
+point [216 91] not in boundary.
+operation time: 0.000381 seconds
+point [219 91] not in boundary.
+operation time: 0.000383 seconds
+point [222 91] not in boundary.
+operation time: 0.000384 seconds
+point [225 91] not in boundary.
+operation time: 0.000386 seconds
+point [229 91] not in boundary.
+operation time: 0.000387 seconds
+point [232 91] not in boundary.
+operation time: 0.000389 seconds
+point [235 91] not in boundary.
+operation time: 0.000391 seconds
+point [238 91] not in boundary.
+operation time: 0.000392 seconds
+point [241 91] not in boundary.
+operation time: 0.000394 seconds
+point [244 91] not in boundary.
+operation time: 0.000395 seconds
+point [247 91] not in boundary.
+operation time: 0.000397 seconds
+point [249 91] not in boundary.
+operation time: 0.000399 seconds
+point [252 91] not in boundary.
+operation time: 0.000400 seconds
+point [253 91] not in boundary.
+operation time: 0.000402 seconds
+point [255 91] not in boundary.
+operation time: 0.000403 seconds
+point [257 91] exists within node [256 0][511 255]
+operation time: 0.000406 seconds
+point [258 91] exists within node [256 0][511 255]
+operation time: 0.000408 seconds
+point [260 91] exists within node [256 0][511 255]
+operation time: 0.000410 seconds
+point [262 91] exists within node [256 0][511 255]
+operation time: 0.000412 seconds
+point [263 91] exists within node [256 0][511 255]
+operation time: 0.000414 seconds
+point [265 91] exists within node [256 0][511 255]
+operation time: 0.000416 seconds
+point [266 91] exists within node [256 0][511 255]
+operation time: 0.000418 seconds
+point [267 91] exists within node [256 0][511 255]
+operation time: 0.000420 seconds
+point [268 91] exists within node [256 0][511 255]
+operation time: 0.000422 seconds
+point [270 91] exists within node [256 0][511 255]
+operation time: 0.000424 seconds
+point [273 91] exists within node [256 0][511 255]
+operation time: 0.000426 seconds
+point [276 91] exists within node [256 0][511 255]
+operation time: 0.000429 seconds
+point [280 90] exists within node [256 0][511 255]
+operation time: 0.000431 seconds
+point [283 90] exists within node [256 0][511 255]
+operation time: 0.000433 seconds
+point [287 90] exists within node [256 0][511 255]
+operation time: 0.000435 seconds
+point [293 90] exists within node [256 0][511 255]
+operation time: 0.000437 seconds
+point [298 90] exists within node [256 0][511 255]
+operation time: 0.000439 seconds
+point [304 90] exists within node [256 0][511 255]
+operation time: 0.000441 seconds
+point [309 90] exists within node [256 0][511 255]
+operation time: 0.000443 seconds
+point [314 90] exists within node [256 0][511 255]
+operation time: 0.000445 seconds
+point [320 90] exists within node [256 0][511 255]
+operation time: 0.000447 seconds
+point [325 90] exists within node [256 0][511 255]
+operation time: 0.000449 seconds
+point [331 91] exists within node [256 0][511 255]
+operation time: 0.000451 seconds
+point [336 91] exists within node [256 0][511 255]
+operation time: 0.000453 seconds
+point [342 93] exists within node [256 0][511 255]
+operation time: 0.000455 seconds
+point [347 93] exists within node [256 0][511 255]
+operation time: 0.000457 seconds
+point [353 93] exists within node [256 0][511 255]
+operation time: 0.000459 seconds
+point [358 93] exists within node [256 0][511 255]
+operation time: 0.000461 seconds
+point [362 93] exists within node [256 0][511 255]
+operation time: 0.000469 seconds
+point [366 93] exists within node [256 0][511 255]
+operation time: 0.000471 seconds
+point [370 93] exists within node [256 0][511 255]
+operation time: 0.000473 seconds
+point [373 93] exists within node [256 0][511 255]
+operation time: 0.000475 seconds
+point [377 93] exists within node [256 0][511 255]
+operation time: 0.000477 seconds
+point [380 93] exists within node [256 0][511 255]
+operation time: 0.000479 seconds
+point [382 93] exists within node [256 0][511 255]
+operation time: 0.000481 seconds
+point [386 94] exists within node [384 0][511 127]
+operation time: 0.000484 seconds
+point [389 94] exists within node [384 0][511 127]
+operation time: 0.000486 seconds
+point [391 95] exists within node [384 0][511 127]
+operation time: 0.000488 seconds
+point [393 95] exists within node [384 0][511 127]
+operation time: 0.000490 seconds
+point [395 95] exists within node [384 0][511 127]
+operation time: 0.000492 seconds
+point [396 95] exists within node [384 0][511 127]
+operation time: 0.000494 seconds
+point [397 95] exists within node [384 0][511 127]
+operation time: 0.000496 seconds
+point [398 95] exists within node [384 0][511 127]
+operation time: 0.000498 seconds
+point [399 95] exists within node [384 0][511 127]
+operation time: 0.000500 seconds
+point [401 95] exists within node [384 0][511 127]
+operation time: 0.000502 seconds
+point [403 94] exists within node [384 0][511 127]
+operation time: 0.000504 seconds
+point [405 94] exists within node [384 0][511 127]
+operation time: 0.000506 seconds
+point [408 94] exists within node [384 0][511 127]
+operation time: 0.000508 seconds
+point [411 94] exists within node [384 0][511 127]
+operation time: 0.000510 seconds
+point [413 94] exists within node [384 0][511 127]
+operation time: 0.000512 seconds
+point [414 94] exists within node [384 0][511 127]
+operation time: 0.000515 seconds
+point [415 93] exists within node [384 0][511 127]
+operation time: 0.000517 seconds
+point [416 93] exists within node [384 0][511 127]
+operation time: 0.000519 seconds
+point [418 93] exists within node [384 0][511 127]
+operation time: 0.000521 seconds
+point [421 93] exists within node [384 0][511 127]
+operation time: 0.000523 seconds
+point [423 93] exists within node [384 0][511 127]
+operation time: 0.000525 seconds
+point [425 93] exists within node [384 0][511 127]
+operation time: 0.000527 seconds
+point [427 93] exists within node [384 0][511 127]
+operation time: 0.000529 seconds
+point [429 93] exists within node [384 0][511 127]
+operation time: 0.000531 seconds
+point [432 93] exists within node [384 0][511 127]
+operation time: 0.000533 seconds
+point [435 93] exists within node [384 0][511 127]
+operation time: 0.000536 seconds
+point [437 93] exists within node [384 0][511 127]
+operation time: 0.000538 seconds
+point [441 93] exists within node [384 0][511 127]
+operation time: 0.000540 seconds
+point [445 93] exists within node [384 0][511 127]
+operation time: 0.000542 seconds
+point [452 93] exists within node [448 64][511 127]
+operation time: 0.000544 seconds
+point [459 93] exists within node [448 64][511 127]
+operation time: 0.000546 seconds
+point [462 94] exists within node [448 64][511 127]
+operation time: 0.000548 seconds
+point [466 94] exists within node [448 64][511 127]
+operation time: 0.000551 seconds
+point [468 94] exists within node [448 64][511 127]
+operation time: 0.000553 seconds
+point [469 94] exists within node [448 64][511 127]
+operation time: 0.000555 seconds
+point [471 94] exists within node [448 64][511 127]
+operation time: 0.000557 seconds
+point [473 94] exists within node [448 64][511 127]
+operation time: 0.000559 seconds
+point [476 94] exists within node [448 64][511 127]
+operation time: 0.000561 seconds
+point [481 94] exists within node [480 80][495 95]
+operation time: 0.000564 seconds
+point [488 94] not in boundary.
+operation time: 0.000566 seconds
+point [495 94] not in boundary.
+operation time: 0.000567 seconds
+image dimensions: 512x512
+size: 3014 nodes

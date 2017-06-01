@@ -1,0 +1,437 @@
+
+point [1 77] exists within node [0 0][127 127]
+operation time: 0.000040 seconds
+point [3 78] exists within node [0 0][127 127]
+operation time: 0.003396 seconds
+point [5 79] exists within node [0 0][127 127]
+operation time: 0.000043 seconds
+point [7 79] exists within node [0 0][127 127]
+operation time: 0.003400 seconds
+point [8 79] exists within node [0 0][127 127]
+operation time: 0.000046 seconds
+point [8 80] exists within node [0 0][127 127]
+operation time: 0.003403 seconds
+point [9 80] exists within node [0 0][127 127]
+operation time: 0.000049 seconds
+point [11 81] exists within node [0 0][127 127]
+operation time: 0.003406 seconds
+point [12 81] exists within node [0 0][127 127]
+operation time: 0.000052 seconds
+point [13 81] exists within node [0 0][127 127]
+operation time: 0.003408 seconds
+point [14 81] exists within node [0 0][127 127]
+operation time: 0.000055 seconds
+point [14 82] exists within node [0 0][127 127]
+operation time: 0.003411 seconds
+point [15 82] exists within node [0 0][127 127]
+operation time: 0.000058 seconds
+point [16 82] exists within node [0 0][127 127]
+operation time: 0.003413 seconds
+point [17 81] exists within node [0 0][127 127]
+operation time: 0.000061 seconds
+point [19 81] exists within node [0 0][127 127]
+operation time: 0.003416 seconds
+point [20 81] exists within node [0 0][127 127]
+operation time: 0.000064 seconds
+point [21 81] exists within node [0 0][127 127]
+operation time: 0.003419 seconds
+point [22 81] exists within node [0 0][127 127]
+operation time: 0.000067 seconds
+point [23 81] exists within node [0 0][127 127]
+operation time: 0.003422 seconds
+point [25 81] exists within node [0 0][127 127]
+operation time: 0.000070 seconds
+point [27 81] exists within node [0 0][127 127]
+operation time: 0.003424 seconds
+point [28 81] exists within node [0 0][127 127]
+operation time: 0.000073 seconds
+point [29 81] exists within node [0 0][127 127]
+operation time: 0.003427 seconds
+point [30 81] exists within node [0 0][127 127]
+operation time: 0.000076 seconds
+point [31 81] exists within node [0 0][127 127]
+operation time: 0.003430 seconds
+point [33 81] exists within node [0 0][127 127]
+operation time: 0.000078 seconds
+point [37 82] exists within node [0 0][127 127]
+operation time: 0.003433 seconds
+point [40 82] exists within node [0 0][127 127]
+operation time: 0.000081 seconds
+point [43 82] exists within node [0 0][127 127]
+operation time: 0.003436 seconds
+point [47 82] exists within node [0 0][127 127]
+operation time: 0.000084 seconds
+point [49 82] exists within node [0 0][127 127]
+operation time: 0.003438 seconds
+point [51 82] exists within node [0 0][127 127]
+operation time: 0.000087 seconds
+point [52 82] exists within node [0 0][127 127]
+operation time: 0.003441 seconds
+point [53 82] exists within node [0 0][127 127]
+operation time: 0.000090 seconds
+point [55 81] exists within node [0 0][127 127]
+operation time: 0.003444 seconds
+point [56 81] exists within node [0 0][127 127]
+operation time: 0.000092 seconds
+point [57 80] exists within node [0 0][127 127]
+operation time: 0.003447 seconds
+point [58 80] exists within node [0 0][127 127]
+operation time: 0.000095 seconds
+point [60 80] exists within node [0 0][127 127]
+operation time: 0.003450 seconds
+point [62 80] exists within node [0 0][127 127]
+operation time: 0.000097 seconds
+point [65 80] not in boundary.
+operation time: 0.003453 seconds
+point [67 80] not in boundary.
+operation time: 0.000099 seconds
+point [69 80] not in boundary.
+operation time: 0.003455 seconds
+point [71 80] not in boundary.
+operation time: 0.000102 seconds
+point [72 80] not in boundary.
+operation time: 0.003457 seconds
+point [73 81] not in boundary.
+operation time: 0.000104 seconds
+point [74 81] not in boundary.
+operation time: 0.003460 seconds
+point [75 81] not in boundary.
+operation time: 0.000106 seconds
+point [77 82] not in boundary.
+operation time: 0.003462 seconds
+point [79 82] not in boundary.
+operation time: 0.000108 seconds
+point [81 83] not in boundary.
+operation time: 0.003465 seconds
+point [84 83] not in boundary.
+operation time: 0.000110 seconds
+point [87 84] not in boundary.
+operation time: 0.003511 seconds
+point [89 84] not in boundary.
+operation time: 0.000114 seconds
+point [91 84] not in boundary.
+operation time: 0.003513 seconds
+point [92 84] not in boundary.
+operation time: 0.000116 seconds
+point [93 84] not in boundary.
+operation time: 0.003516 seconds
+point [94 85] not in boundary.
+operation time: 0.000118 seconds
+point [96 85] not in boundary.
+operation time: 0.003518 seconds
+point [98 85] not in boundary.
+operation time: 0.000120 seconds
+point [100 86] not in boundary.
+operation time: 0.003520 seconds
+point [102 86] not in boundary.
+operation time: 0.000123 seconds
+point [105 86] not in boundary.
+operation time: 0.003522 seconds
+point [107 86] not in boundary.
+operation time: 0.000125 seconds
+point [110 86] not in boundary.
+operation time: 0.003524 seconds
+point [112 86] not in boundary.
+operation time: 0.000127 seconds
+point [114 87] not in boundary.
+operation time: 0.003526 seconds
+point [116 87] not in boundary.
+operation time: 0.000129 seconds
+point [117 87] not in boundary.
+operation time: 0.003528 seconds
+point [118 87] not in boundary.
+operation time: 0.000132 seconds
+point [119 87] not in boundary.
+operation time: 0.003530 seconds
+point [120 87] not in boundary.
+operation time: 0.000134 seconds
+point [122 87] not in boundary.
+operation time: 0.003532 seconds
+point [124 87] not in boundary.
+operation time: 0.000136 seconds
+point [126 88] not in boundary.
+operation time: 0.003534 seconds
+point [128 88] not in boundary.
+operation time: 0.000139 seconds
+point [131 88] not in boundary.
+operation time: 0.003536 seconds
+point [133 88] not in boundary.
+operation time: 0.000141 seconds
+point [135 89] not in boundary.
+operation time: 0.003538 seconds
+point [137 89] not in boundary.
+operation time: 0.000144 seconds
+point [139 89] not in boundary.
+operation time: 0.003540 seconds
+point [140 89] not in boundary.
+operation time: 0.000146 seconds
+point [141 89] not in boundary.
+operation time: 0.003542 seconds
+point [143 89] not in boundary.
+operation time: 0.000148 seconds
+point [145 90] not in boundary.
+operation time: 0.003544 seconds
+point [147 90] not in boundary.
+operation time: 0.000150 seconds
+point [150 90] not in boundary.
+operation time: 0.003546 seconds
+point [152 90] not in boundary.
+operation time: 0.000152 seconds
+point [155 91] not in boundary.
+operation time: 0.003548 seconds
+point [157 91] not in boundary.
+operation time: 0.000154 seconds
+point [160 91] not in boundary.
+operation time: 0.003551 seconds
+point [162 92] not in boundary.
+operation time: 0.000156 seconds
+point [164 92] not in boundary.
+operation time: 0.003553 seconds
+point [166 92] not in boundary.
+operation time: 0.000158 seconds
+point [167 92] not in boundary.
+operation time: 0.003555 seconds
+point [168 92] not in boundary.
+operation time: 0.000160 seconds
+point [169 92] not in boundary.
+operation time: 0.003558 seconds
+point [170 92] not in boundary.
+operation time: 0.000162 seconds
+point [171 92] not in boundary.
+operation time: 0.003560 seconds
+point [172 93] not in boundary.
+operation time: 0.000164 seconds
+point [173 93] not in boundary.
+operation time: 0.003562 seconds
+point [174 93] not in boundary.
+operation time: 0.000166 seconds
+point [175 93] not in boundary.
+operation time: 0.003564 seconds
+point [176 93] not in boundary.
+operation time: 0.000168 seconds
+point [177 93] not in boundary.
+operation time: 0.003566 seconds
+point [179 94] not in boundary.
+operation time: 0.000170 seconds
+point [180 94] not in boundary.
+operation time: 0.003569 seconds
+point [181 94] not in boundary.
+operation time: 0.000172 seconds
+point [183 94] not in boundary.
+operation time: 0.003571 seconds
+point [185 94] not in boundary.
+operation time: 0.000174 seconds
+point [186 93] not in boundary.
+operation time: 0.003573 seconds
+point [188 93] not in boundary.
+operation time: 0.000176 seconds
+point [191 93] not in boundary.
+operation time: 0.003575 seconds
+point [193 93] not in boundary.
+operation time: 0.000178 seconds
+point [196 93] not in boundary.
+operation time: 0.003577 seconds
+point [198 93] not in boundary.
+operation time: 0.000193 seconds
+point [200 93] not in boundary.
+operation time: 0.003579 seconds
+point [202 93] not in boundary.
+operation time: 0.000196 seconds
+point [205 93] not in boundary.
+operation time: 0.003581 seconds
+point [207 93] not in boundary.
+operation time: 0.000198 seconds
+point [208 92] not in boundary.
+operation time: 0.003583 seconds
+point [210 92] not in boundary.
+operation time: 0.000200 seconds
+point [211 92] not in boundary.
+operation time: 0.003585 seconds
+point [212 92] not in boundary.
+operation time: 0.000202 seconds
+point [214 92] not in boundary.
+operation time: 0.003587 seconds
+point [216 91] not in boundary.
+operation time: 0.000204 seconds
+point [219 91] not in boundary.
+operation time: 0.003590 seconds
+point [222 91] not in boundary.
+operation time: 0.000206 seconds
+point [225 91] not in boundary.
+operation time: 0.003592 seconds
+point [229 91] not in boundary.
+operation time: 0.000208 seconds
+point [232 91] not in boundary.
+operation time: 0.003594 seconds
+point [235 91] not in boundary.
+operation time: 0.000210 seconds
+point [238 91] not in boundary.
+operation time: 0.003596 seconds
+point [241 91] not in boundary.
+operation time: 0.000212 seconds
+point [244 91] not in boundary.
+operation time: 0.003599 seconds
+point [247 91] not in boundary.
+operation time: 0.000214 seconds
+point [249 91] not in boundary.
+operation time: 0.003601 seconds
+point [252 91] not in boundary.
+operation time: 0.000216 seconds
+point [253 91] not in boundary.
+operation time: 0.003603 seconds
+point [255 91] not in boundary.
+operation time: 0.000218 seconds
+point [257 91] not in boundary.
+operation time: 0.003605 seconds
+point [258 91] not in boundary.
+operation time: 0.000221 seconds
+point [260 91] not in boundary.
+operation time: 0.003607 seconds
+point [262 91] not in boundary.
+operation time: 0.000223 seconds
+point [263 91] not in boundary.
+operation time: 0.003609 seconds
+point [265 91] not in boundary.
+operation time: 0.000225 seconds
+point [266 91] not in boundary.
+operation time: 0.003611 seconds
+point [267 91] not in boundary.
+operation time: 0.000227 seconds
+point [268 91] not in boundary.
+operation time: 0.003613 seconds
+point [270 91] not in boundary.
+operation time: 0.000229 seconds
+point [273 91] not in boundary.
+operation time: 0.003615 seconds
+point [276 91] not in boundary.
+operation time: 0.000231 seconds
+point [280 90] not in boundary.
+operation time: 0.003617 seconds
+point [283 90] not in boundary.
+operation time: 0.000233 seconds
+point [287 90] not in boundary.
+operation time: 0.003619 seconds
+point [293 90] not in boundary.
+operation time: 0.000235 seconds
+point [298 90] not in boundary.
+operation time: 0.003621 seconds
+point [304 90] not in boundary.
+operation time: 0.000237 seconds
+point [309 90] not in boundary.
+operation time: 0.003623 seconds
+point [314 90] not in boundary.
+operation time: 0.000239 seconds
+point [320 90] not in boundary.
+operation time: 0.003625 seconds
+point [325 90] not in boundary.
+operation time: 0.000241 seconds
+point [331 91] not in boundary.
+operation time: 0.003627 seconds
+point [336 91] not in boundary.
+operation time: 0.000243 seconds
+point [342 93] not in boundary.
+operation time: 0.003629 seconds
+point [347 93] not in boundary.
+operation time: 0.000245 seconds
+point [353 93] not in boundary.
+operation time: 0.003631 seconds
+point [358 93] not in boundary.
+operation time: 0.000248 seconds
+point [362 93] not in boundary.
+operation time: 0.003633 seconds
+point [366 93] not in boundary.
+operation time: 0.000250 seconds
+point [370 93] not in boundary.
+operation time: 0.003635 seconds
+point [373 93] not in boundary.
+operation time: 0.000252 seconds
+point [377 93] not in boundary.
+operation time: 0.003637 seconds
+point [380 93] not in boundary.
+operation time: 0.000254 seconds
+point [382 93] not in boundary.
+operation time: 0.003639 seconds
+point [386 94] not in boundary.
+operation time: 0.000256 seconds
+point [389 94] not in boundary.
+operation time: 0.003641 seconds
+point [391 95] not in boundary.
+operation time: 0.000258 seconds
+point [393 95] not in boundary.
+operation time: 0.003652 seconds
+point [395 95] not in boundary.
+operation time: 0.000261 seconds
+point [396 95] not in boundary.
+operation time: 0.003654 seconds
+point [397 95] not in boundary.
+operation time: 0.000263 seconds
+point [398 95] not in boundary.
+operation time: 0.003656 seconds
+point [399 95] not in boundary.
+operation time: 0.000265 seconds
+point [401 95] not in boundary.
+operation time: 0.003658 seconds
+point [403 94] not in boundary.
+operation time: 0.000267 seconds
+point [405 94] not in boundary.
+operation time: 0.003660 seconds
+point [408 94] not in boundary.
+operation time: 0.000269 seconds
+point [411 94] not in boundary.
+operation time: 0.003662 seconds
+point [413 94] not in boundary.
+operation time: 0.000271 seconds
+point [414 94] not in boundary.
+operation time: 0.003664 seconds
+point [415 93] not in boundary.
+operation time: 0.000273 seconds
+point [416 93] not in boundary.
+operation time: 0.003666 seconds
+point [418 93] not in boundary.
+operation time: 0.000276 seconds
+point [421 93] not in boundary.
+operation time: 0.003668 seconds
+point [423 93] not in boundary.
+operation time: 0.000278 seconds
+point [425 93] not in boundary.
+operation time: 0.003670 seconds
+point [427 93] not in boundary.
+operation time: 0.000280 seconds
+point [429 93] not in boundary.
+operation time: 0.003672 seconds
+point [432 93] not in boundary.
+operation time: 0.000282 seconds
+point [435 93] not in boundary.
+operation time: 0.003674 seconds
+point [437 93] not in boundary.
+operation time: 0.000284 seconds
+point [441 93] not in boundary.
+operation time: 0.003676 seconds
+point [445 93] not in boundary.
+operation time: 0.000286 seconds
+point [452 93] not in boundary.
+operation time: 0.003678 seconds
+point [459 93] not in boundary.
+operation time: 0.000288 seconds
+point [462 94] not in boundary.
+operation time: 0.003680 seconds
+point [466 94] not in boundary.
+operation time: 0.000291 seconds
+point [468 94] not in boundary.
+operation time: 0.003682 seconds
+point [469 94] not in boundary.
+operation time: 0.000293 seconds
+point [471 94] not in boundary.
+operation time: 0.003684 seconds
+point [473 94] not in boundary.
+operation time: 0.000295 seconds
+point [476 94] not in boundary.
+operation time: 0.003686 seconds
+point [481 94] not in boundary.
+operation time: 0.000297 seconds
+point [488 94] not in boundary.
+operation time: 0.003688 seconds
+point [495 94] not in boundary.
+operation time: 0.000299 seconds
+image dimensions: 512x512
+size: 291 nodes
