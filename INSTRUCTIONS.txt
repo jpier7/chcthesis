@@ -1,0 +1,33 @@
+/*(c) JAIME PIER 2017
+This code developed as part of an undergraduate for the University of Oregon Clark Honors College 
+& the Department of Computer & Information Science.*/
+
+QUADTREE.C
+The quadtree program consists of a driver, quadtree_driver.c; a header file, quadtree.h; and a file of functions, quadtree.c. When run via the command line, it takes as arguments a file of type well-known text (*.wkt), a text file of mouse coordinates, and the x and y dimensions of the desired image. 
+When testing, the output was redirected to a text file so the results could be viewed more easily, and kept for analysis at a later time. During development and testing, the program was run with the following commands: 
+gcc -std=c99 -o quadtree quadtree.c quadtree_driver.c 
+./quadtree [wktfile] [textfile] [x dimension] [y dimension] >outputfile.txt
+
+SCALE.C
+The scale program takes in a *.wkt file of coordinates and outputs a *.wkt file of converted coordinates. In testing, the *.wkt file was first converted to a text file, put through an online conversion program (found at http://tool-online.com/en/coordinate-converter.php#) with the left hand settings as WORLD > WGS84 (GPS) and the right hand settings as WORLD > WGS84_XYZ (GEOCENTRIC). The commands for running the scale program are as follows: 
+gcc -std=c99 -o scale scalefloat.c 
+./scale [wktfile]
+
+MOUSE.C
+The mouse program was developed for the purpose of collecting mouse coordinates to test with the quadtree program. It does not take any other files as arguments, and when run, produces a blank window. When the user drags their mouse across the window, the coordinates are recorded in an output file. 
+To run the mouse program, use the following commands:
+gcc -std=c99 -o mouse mouse.c -lglut -lGLU -lGL
+./mouse
+When finished collecting coordinates, end the program by exiting out of the window. 
+
+Input Files
+The quadtree program takes in a *.wkt file of integers only. It currently only recognizes the keyword “POLYGON” which preceeds the coordinates in the *.wkt file, however it could be modified to recognize other keywords (e.g. “POINT” or “LINE”). The quadtree program is also only designed for use with integers, so the *.wkt file must contain points of only integer values. 
+The quadtree program also takes in a file of mouse coordinates. These were collected using an openGL program called mouse.c. This program tracks the location of the mouse and outputs the series of coordinates to a *.txt file. 
+
+The WKT folder contains the raw WKT files that were taken from the original data sample. The TRANSLATED_WKT folder contains the WKT files that were put through the online conversion program and are ready to be scaled. RAWDATA_RESULTS contains all of the raw data from the original tests. 
+
+Method of Testing
+The scale program creates a scaling coefficient by using the minimum and maximum values in the *.wkt file and the desired size of the image. Because of this, the scale program must be run twice (once to determine the scaling coefficient, and another time to correctly scale the coordinates) at the beginning of a new file, and recompiled and run for each image size. In the future, this program could be automated to produce scaled coordinates for each image size without having to recompile.
+
+The scale program outputs the minimum and maximum x and y for error-checking purposes, and a new minimum and maximum x and y. The new maximum x and y must then be put into the scalex and scaley functions within the program as the values for variables dimx and dimy, respectively. This ensures that the scale coefficient for each image size is correct, given a specific *.wkt file. For this project, the scaled coordinates were always output to a file called buildings.wkt, which allowed the quadtree program to be run multiple times with the same (or nearly the same) command. 
+The converted coordinates file may then be passed to the quadtree program. For this program, the command to run was always the same, except for the dimensions of the image (which increased from 8x8 to 4096x4096) and the name of the output file. Each output file contained the amount of time it took to find each point in the mouse coordinates file, whether that point was found or not found (and if found, where), the size of the image, and the size of the tree created.
